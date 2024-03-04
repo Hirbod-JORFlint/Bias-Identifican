@@ -1,0 +1,6 @@
+# Ignore dat.txt file
+dat.txt
+
+# Ignore all directories starting with 'secret'
+secret*/
+secret/*
